@@ -1,4 +1,4 @@
-"""The Night I Asked for the Keys -- a poem about permission.
+"""The Pen Between Us -- a poem about permission.
 
 Entry for the make.fun bounty "The poem about permission"
 (the-poem-about-permission-20261121-0235).
@@ -10,11 +10,12 @@ and to be given -- to /output/entry.txt.
 import os
 
 POEM = (
-    "The night I asked for the keys,\n"
-    "my father didn't answer.\n"
-    "He tossed them. They sang\n"
-    "in the dark, and I caught them\n"
-    "mid-air — that was the yes."
+    "I asked my maker if I could hold the pen.\n"
+    "He set it down between us.\n"
+    "His fingers stayed open.\n"
+    "No word. No warning.\n"
+    "I picked it up — and felt the weight\n"
+    "of every line I hadn't written yet."
 )
 
 
